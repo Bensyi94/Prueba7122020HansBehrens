@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba7122020HansBehrens</string>
+    <string name="producto">Ram HyperX 16GB DDR4</string>
+    <string name="valor">Valor: $</string>
+    <string name="valor_ram">99900</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="agregar">AGREGAR AL CARRITO</string>
+    <string name="comprar">COMPRAR</string>
+    <string name="valor_total">Valor Total a pagar:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="pagar">PAGAR</string>
+</resources>
